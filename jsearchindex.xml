@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="library" method="upgrade" version="2.5">
+	<name>Jsearchindex</name>
+	<libraryname>jsearchindex</libraryname>
+	<author>Techjoomla</author>
+	<authorEmail>extensions@techjoomla.com</authorEmail>
+	<authorUrl>https://techjoomla.com</authorUrl>
+	<copyright>Copyright (c) 2009-2015 Techjoomla. All rights reserved.</copyright>
+	<license>http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL</license>
+	<creationDate>12st Feb 2016</creationDate>
+	<version>1.0</version>
+	<description>Library to manage search indexes</description>
+	<files>
+		<file>algolia.php</file>
+		<file>solr.php</file>
+		<file>sql.php</file>
+		<file>jsearchindex.php</file>
+		<file>index.html</file>
+		<file>jsearchindex.xml</file>
+	</files>
+</extension>
